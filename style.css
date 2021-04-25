@@ -1,0 +1,47 @@
+body
+{
+    background-color: blueviolet;
+    margin: 0;
+    padding: 0;
+}
+header
+{
+    background-color: brown;
+}
+nav
+{
+    background-color: chartreuse;
+}
+main
+{
+    background-color: coral;
+}
+aside
+{
+    background-color: cornflowerblue;
+}
+footer
+{
+    background-color: brown;
+}
+.container
+{
+    width: 80%;
+    max-width: 1200px;
+    margin: auto;
+    padding: 10px;
+}
+h1, h2, h3, h4
+{
+    margin-top: 0;
+}
+footer {
+    background-color: brown;
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+}
+nav li
+{
+    display: inline;
+}
